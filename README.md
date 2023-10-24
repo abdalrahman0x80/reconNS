@@ -7,6 +7,7 @@ pip install dnspython
 pip install requests
   ```
 ## how to Using Tools
+<img src="using.png">
 ```
 python reconNS.py {www.domain.com} {dns record name}
 ```
