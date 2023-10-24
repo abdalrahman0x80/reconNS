@@ -1,5 +1,11 @@
 # reconNS
 dns record enmuration
+
+## install lib 
+```
+pip install dnspython
+pip install requests
+  ```
 ## how to Using Tools
 ```
 python reconNS.py {www.domain.com} {dns record name}
